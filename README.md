@@ -1,6 +1,6 @@
 # Url - Shortener
 
-This project is a small Url shortener and my submission to [Cloudflare Developer Summer Challenge ](https://challenge.developers.cloudflare.com/), where I have hosted/ deployed my project to [CloudFlare Pages](https://pages.cloudflare.com/) using little [Cloudflare Workers](https://workers.cloudflare.com/), here is the link of an actual working site [https://url-shorter.pages.dev/](https://url-shorter.pages.dev/)
+This project is a small Url shortener and my submission to [Cloudflare Developer Spring Challenge ](https://challenge.developers.cloudflare.com/), where I have hosted/ deployed my project to [CloudFlare Pages](https://pages.cloudflare.com/) using little [Cloudflare Workers](https://workers.cloudflare.com/), here is the link of an actual working site [https://url-shorter.pages.dev/](https://url-shorter.pages.dev/)
 
 # Installation
 
